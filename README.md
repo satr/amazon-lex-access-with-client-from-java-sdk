@@ -1,6 +1,8 @@
 # amazon-lex-access-with-client-from-java-sdk
 Example of the connection to the Amazon Lex bot with a client from Java SDK.
 
+Video tutorial https://youtu.be/t5J-X3znmFk
+
 Amazon Lex Documentation
 https://aws.amazon.com/documentation/lex/
 
